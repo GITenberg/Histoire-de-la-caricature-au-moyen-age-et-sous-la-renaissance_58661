@@ -1,11 +1,16 @@
 _repo: Histoire-de-la-caricature-au-moyen-age-et-sous-la-renaissance_58661
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58661-h/images/cover.jpg
 creator:
   author:
     agent_name: Husson, Jules François Félix
     gutenberg_agent_id: '50088'
     url: http://www.gutenberg.org/2009/agents/50088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58661#Histoire-de-la-caricature-au-moyen-age-et-sous-la-renaissance
 gutenberg_bookshelf:
 - FR Humour
 - FR Nouveautés
